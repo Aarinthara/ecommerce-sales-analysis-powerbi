@@ -76,4 +76,4 @@ This project demonstrates my ability to:
 
 ## 🔗 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/aarinthara-babu-32aba8375
-- **Email:** aarintharabab u@gmail.com
+- **Email:** aarintharababud@gmail.com
